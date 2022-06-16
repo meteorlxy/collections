@@ -41,6 +41,12 @@ My personal projects collections list (not an awesome list). Too many projects t
 - [ts-node](https://github.com/TypeStrong/ts-node)
 - [tsx](https://github.com/esbuild-kit/tsx)
 
+## Utilities
+
+- [copyfiles](https://github.com/calvinmetcalf/copyfiles)
+- [cpx2](https://github.com/bcomnes/cpx2)
+- [p-map](https://github.com/sindresorhus/p-map)
+
 ## Version Publisher
 
 - [bumpp](https://github.com/antfu/bumpp)
