@@ -32,6 +32,7 @@ My personal projects collections list (not an awesome list). Too many projects t
 
 ## Tests
 
+- [artillery](https://github.com/artilleryio/artillery)
 - [cypress](https://github.com/cypress-io/cypress)
 - [playwright](https://github.com/microsoft/playwright)
 - [vitest](https://github.com/vitest-dev/vitest)
