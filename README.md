@@ -19,6 +19,11 @@ My personal projects collections list (not an awesome list). Too many projects t
 - [husky](https://github.com/typicode/husky)
 - [simple-git-hooks](https://github.com/toplenboren/simple-git-hooks)
 
+## Icons
+
+- [icones](https://icones.js.org/)
+- [iconify](https://iconify.design/)
+
 ## Node Version Manager
 
 - [fnm](https://github.com/Schniz/fnm)
