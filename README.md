@@ -7,6 +7,11 @@ My personal projects collections list (not an awesome list). Too many projects t
 - [tsup](https://github.com/egoist/tsup)
 - [unbuild](https://github.com/unjs/unbuild)
 
+## CSS
+
+- [animate.css](https://github.com/animate-css/animate.css)
+- [unocss](https://github.com/unocss/unocss)
+
 ## DX Tools
 
 - [ls-lint](https://github.com/loeffel-io/ls-lint)
