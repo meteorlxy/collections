@@ -45,6 +45,7 @@ My personal projects collections list (not an awesome list). Too many projects t
 - [artillery](https://github.com/artilleryio/artillery)
 - [cypress](https://github.com/cypress-io/cypress)
 - [playwright](https://github.com/microsoft/playwright)
+- [tsd](https://github.com/SamVerschueren/tsd)
 - [vitest](https://github.com/vitest-dev/vitest)
 
 ## TypeScript Execution
